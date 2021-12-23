@@ -1,6 +1,10 @@
 # 前置安装条件  
 * 需要安装nodejs LTS
 
+### 安装步骤
+  1. npm install
+  2. npm start
+
 ### 使用合法的参数  
   修改[src/index.ts](./src/index.ts)文件
 
