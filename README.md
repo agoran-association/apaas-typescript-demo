@@ -9,7 +9,7 @@
   修改[src/index.ts](./src/index.ts)文件
 
 * 设置[appId](./src/index.ts#L6)
-* 设置[userUuid](./src/index.ts#L9)
+* 设置[userUuid](/src/index.ts#L9)
 * 设置[rtmToken](./src/index.ts#L10)
 
 
